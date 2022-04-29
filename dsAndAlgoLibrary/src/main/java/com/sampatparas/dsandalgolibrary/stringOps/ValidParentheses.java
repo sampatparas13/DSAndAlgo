@@ -8,7 +8,6 @@ public class ValidParentheses {
     public static void main(String[] args) {
 
         System.out.println("checking for ([)] : " + isValid("([)]"));
-
     }
 
     public static boolean isValid(String s) {
