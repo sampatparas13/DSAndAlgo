@@ -18,7 +18,7 @@ public class ArrayPlusOne {
         System.out.println("plusOne : " + (n));
         String sum = "" + n;
         int[] temp = new int[sum.length() ];
-
+        // 4322
         for (int i = 0; i < sum.length(); i++) {
             System.out.println("char at " + i +" is " + sum.charAt(i));
             temp[i] = sum.charAt(i) - '0'; // need to understand this
@@ -28,7 +28,10 @@ public class ArrayPlusOne {
     }
 
     public static int getIntegerFromArray(int[] digits){
-        // [4,3,2,1]
+        // [4,3,2,1] -? 4321 + 1
+        // [4,3,2,2] -? 4322
+        // [9]
+        // [1,0]
         int mul = 1;
         int num = 0;
         for(int i= digits.length - 1; i >= 0; i--){
