@@ -1,4 +1,4 @@
-package com.sampatparas.dsandalgolibrary;
+package com.sampatparas.dsandalgolibrary.maths;
 
 
 // get nth number in fibonacci series

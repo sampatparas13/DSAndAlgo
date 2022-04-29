@@ -1,4 +1,4 @@
-package com.sampatparas.dsandalgolibrary;
+package com.sampatparas.dsandalgolibrary.maths;
 
 public class RomanToIntegerNumber {
 

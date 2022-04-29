@@ -1,4 +1,4 @@
-package com.sampatparas.dsandalgolibrary;
+package com.sampatparas.dsandalgolibrary.maths;
 
 
 // between min number to max number,

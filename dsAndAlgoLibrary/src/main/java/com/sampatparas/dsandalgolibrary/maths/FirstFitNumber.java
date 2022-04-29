@@ -1,4 +1,4 @@
-package com.sampatparas.dsandalgolibrary;
+package com.sampatparas.dsandalgolibrary.maths;
 
 /*
 You are given a list of integers rooms and an integer target.
